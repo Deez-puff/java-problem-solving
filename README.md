@@ -1,10 +1,6 @@
 # java-problem-solving 
  
-it is just java..
-      
-      
-      
-     
+This is my journey of learning java.....
   
   
        
