@@ -3,7 +3,7 @@ public class AssignmentOperators {
 
         int x = 10;
 
-        System.out.println("Initial Value: " + x);
+        System.out.println("Initial Value: " + x);  
 
         x += 5;
         System.out.println("After += 5 : " + x);
