@@ -18,6 +18,7 @@ public class AssignmentOperators {
         System.out.println("After /= 4 : " + x);
 
         x %= 2;
-        System.out.println("After %= 2 : " + x);
+        System.out.println("After %= 2 : " + x); 
+        
     }
 }
