@@ -2,7 +2,7 @@ public class ArithmeticOperators {
     public static void main(String[] args) {
 
         int a = 15;
-        int b = 4;
+        int b = 26;
 
         System.out.println("Addition: " + (a + b));
         System.out.println("Subtraction: " + (a - b));
@@ -11,3 +11,4 @@ public class ArithmeticOperators {
         System.out.println("Modulus: " + (a % b));
     }
 }
+  
