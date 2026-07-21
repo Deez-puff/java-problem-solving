@@ -4,7 +4,7 @@ public class ArithmeticOperators {
         int a = 15;
         int b = 26;
 
-        System.out.println("Addition: " + (a + b));
+        System.out.println("Addition: " + (a + b)); 
         System.out.println("Subtraction: " + (a - b));
         System.out.println("Multiplication: " + (a * b));
         System.out.println("Division: " + (a / b));
